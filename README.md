@@ -18,7 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/patrick-brasileiro)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PatrickBrasileiro)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&&logoColor=white](https://wa.me/5511913499740)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366e-badge&logo=whatsapp&logoColor=white](https://wa.me/5511912345678)
 
 <!--
 **PatrickBrasileiro/PatrickBrasileiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
