@@ -19,7 +19,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PatrickBrasileiro)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
 
-[![**atsApp](https://img.shields.io/ba**e/WhatsApp**00?style=for-the-badge&logo=whats**5D366](https://wa.me/551198765432**
 
 
 <!--
