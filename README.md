@@ -10,7 +10,7 @@
 - 🕵🏾‍♂️ Possuo mais de 6 anos de experiência como Analista de Testes
 
 ## 🛠️ Tecnologias
-- 🌐 Front-end: HTML
+- 🌐 Front-end: HTML, CSS, Bootstrap e JavaScript
 - ✅ Automação de testes com Cypress (Aprendendo)
 - 💡 Conhecimento com metodologias Waterfall e ágeis (Scrum e Kanban) e BDD
 - 🧰 Ferramentas de Gerenciamento de recebimento de demandas: Jira, Monday, slack, 
